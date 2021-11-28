@@ -31,7 +31,7 @@ $message = '';
     
 
     if (fileSize < $MAX_FILE_SIZE) {
-        $_SESSION['message'] = 'el archivo es muy grande vato!';
+        $_SESSION['message'] = 'your file is too big OwO, try something smaller UwU!';
  }
 
     if (in_array($fileExtension, $allowedfileExtensions))
