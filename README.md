@@ -38,4 +38,3 @@ This is a simple PHP-based file upload application that allows users to upload f
 
 - Remember that this is a basic example and may require additional security measures and error handling before being used in a production environment. It's important to sanitize user inputs and validate file uploads thoroughly to prevent potential security risks.
 
-**Disclaimer:** This README is based on the provided code snippet. If you have any specific questions or need further assistance, please feel free to ask!
